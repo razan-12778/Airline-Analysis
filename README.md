@@ -231,6 +231,6 @@ Developed collaboratively as part of the **SDA × Le Wagon Data Engineering Boot
 - **Elham Alansari**
 - **Razan Alzahrani**
 - **Maryam Mubarak**
-- **Nada Almutairi**
+
 
 <!-- Optional: Replace each team member's name with [Name](their-LinkedIn-profile-URL) when the team chooses to share profile links. -->
